@@ -1,18 +1,19 @@
 # 🚀 DevOps Engineer | Cloud & Platform Enthusiast  
 
-Passionate about **automation, cloud optimization, and developer experience**, I specialize in building **scalable, secure, and efficient** infrastructures.  
+Driven by **automation, cloud optimization, and developer experience**, I specialize in designing and managing **scalable, secure, and efficient** infrastructures. My expertise spans across **AWS, Azure DevOps, Kubernetes, and Terraform**, with a strong focus on **CI/CD, Infrastructure as Code, and Observability**.  
 
-💡 Currently exploring **Platform Engineering** with **Backstage** to create a seamless **Internal Developer Platform (IDP)** for enhanced DevOps workflows. 
+## 🔹 Professional Focus  
+- **Cloud & Kubernetes**: Architecting and automating deployments with **AWS, Azure DevOps, Kubernetes, and Terraform**  
+- **CI/CD & Infrastructure as Code**: Streamlining software delivery using **Jenkins, Terraform, and AWS SAM**  
+- **Observability & Security**: Enhancing **performance, security, and scalability** through monitoring and best practices  
 
-📌 **Key Focus Areas:**  
-- 🔹 **Cloud & Kubernetes:** Automating deployments with **AWS, AzureDevops, and Kubernetes**  
-- 🔹 **CI/CD & Infrastructure as Code:** Optimizing workflows with **Jenkins, Terraform & SAM**  
-- 🔹 **Observability & Security:** Ensuring **scalability, security, and performance**
+## 💡 Current Exploration  
+- **Platform Engineering**: Building an **Internal Developer Platform (IDP)** with **Backstage** to enhance DevOps workflows  
+- **AI & Productivity Tools**: Leveraging **ChatGPT, DeepSeek, GitHub Copilot, Cursor, and other AI tools** to optimize development and operations  
+- **Full-Stack Development**: Creating **mini projects with Python, Node.js, and React** to expand technical expertise  
 
-> ⚡ **Fun Fact:**  
-> **GitHub** is just my playground—the **real** action happens on **Azure DevOps!** 😆  
-
----
+## 🔥 Continuous Learning  
+Passionate about **continuous improvement**, I am actively refining my skills in **AWS, Azure DevOps, Kubernetes, Terraform, and Elasticsearch** while exploring emerging technologies in DevOps and cloud engineering.  
 
 ## 📫 Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvijayakumarv)  
@@ -41,7 +42,6 @@ Passionate about **automation, cloud optimization, and developer experience**, I
 ---
 
 ### 🎓 Mentors  
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=plastic&logo=openai&logoColor=white)
 ![KodeKloud](https://img.shields.io/badge/KodeKloud-1E90FF?style=plastic&logoColor=white)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=plastic&logo=Udemy&logoColor=white)
 
@@ -50,7 +50,6 @@ Passionate about **automation, cloud optimization, and developer experience**, I
 ### 🚀 Familiar With  
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=plastic&logo=windows&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=plastic&logo=kalilinux&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=plastic&logo=centos&logoColor=F0F0F0)
 
 

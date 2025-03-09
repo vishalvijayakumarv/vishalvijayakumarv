@@ -1,19 +1,22 @@
 # 🚀 DevOps Engineer | Cloud & Platform Enthusiast  
 
-Driven by **automation, cloud optimization, and developer experience**, I specialize in designing and managing **scalable, secure, and efficient** infrastructures. My expertise spans across **AWS, Azure DevOps, Kubernetes, and Terraform**, with a strong focus on **CI/CD, Infrastructure as Code, and Observability**.  
+I work as a **DevOps Engineer** with a primary focus on **AWS & Azure DevOps for CI/CD**, leveraging tools like **Kubernetes, Terraform, and Linux** to build scalable, automated, and secure infrastructures. Beyond DevOps, I'm deeply curious about **development**, actively building **mini projects** using **Python, React, and AI LLM models**.  
 
 ## 🔹 Professional Focus  
-- **Cloud & Kubernetes**: Architecting and automating deployments with **AWS, Azure DevOps, Kubernetes, and Terraform**  
-- **CI/CD & Infrastructure as Code**: Streamlining software delivery using **Jenkins, Terraform, and AWS SAM**  
-- **Observability & Security**: Enhancing **performance, security, and scalability** through monitoring and best practices  
+- **Cloud & Kubernetes**: Architecting and managing cloud-native applications with **AWS, Azure DevOps, Kubernetes, and Terraform**  
+- **CI/CD & Infrastructure as Code**: Automating deployments using **Azure DevOps, Jenkins, Terraform, and AWS SAM**  
+- **Observability & Security**: Enhancing **performance, security, and scalability** through best practices and monitoring  
 
-## 💡 Current Exploration  
-- **Platform Engineering**: Building an **Internal Developer Platform (IDP)** with **Backstage** to enhance DevOps workflows  
-- **AI & Productivity Tools**: Leveraging **ChatGPT, DeepSeek, GitHub Copilot, Cursor, and other AI tools** to optimize development and operations  
-- **Full-Stack Development**: Creating **mini projects with Python, Node.js, and React** to expand technical expertise  
+## 💡 Passion & Exploration  
+- **Platform Engineering**: Exploring **Internal Developer Platforms (IDP) with Backstage** to streamline DevOps workflows  
+- **Python & AI Development**: Experimenting with **Python, React, and foundational AI LLM models**  
+- **Current Mini Project**: Building **AI-WebCrawler**, an intelligent web scraping system with **Flask, Celery, Elasticsearch, PostgreSQL, Kafka, and Scrapy**  
 
 ## 🔥 Continuous Learning  
-Passionate about **continuous improvement**, I am actively refining my skills in **AWS, Azure DevOps, Kubernetes, Terraform, and Elasticsearch** while exploring emerging technologies in DevOps and cloud engineering.  
+Committed to **continuous growth**, I am refining my expertise in **AWS, Azure DevOps, Kubernetes, Terraform, and Linux**, while staying ahead in **Platform Engineering and AI-powered automation**.  
+
+---
+
 
 ## 📫 Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvijayakumarv)  

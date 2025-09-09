@@ -1,22 +1,43 @@
-# 🚀 DevOps Engineer | Cloud & Platform Enthusiast  
+# 🚀 DevOps Engineer | Platform & AI Enthusiast
 
-I work as a **DevOps Engineer** with a primary focus on **AWS & Azure DevOps for CI/CD**, leveraging tools like **Kubernetes, Terraform, and Linux** to build scalable, automated, and secure infrastructures. Beyond DevOps, I'm deeply curious about **development**, actively building **mini projects** using **Python, React, and AI LLM models**.  
+I’m a **DevOps Engineer** specializing in **Cloud (AWS, Azure DevOps), CI/CD automation, and Infrastructure as Code (Terraform)**. With strong expertise in **Python development, containerization, and Git-based workflows**, I design **scalable, automated, and reliable infrastructures**.
 
-## 🔹 Professional Focus  
-- **Cloud & Kubernetes**: Architecting and managing cloud-native applications with **AWS, Azure DevOps, Kubernetes, and Terraform**  
-- **CI/CD & Infrastructure as Code**: Automating deployments using **Azure DevOps, Jenkins, Terraform, and AWS SAM**  
-- **Observability & Security**: Enhancing **performance, security, and scalability** through best practices and monitoring  
-
-## 💡 Passion & Exploration  
-- **Platform Engineering**: Exploring **Internal Developer Platforms (IDP) with Backstage** to streamline DevOps workflows  
-- **Python & AI Development**: Experimenting with **Python, React, and foundational AI LLM models**  
-- **Current Mini Project**: Building **AI-WebCrawler**, an intelligent web scraping system with **Flask, Celery, Elasticsearch, PostgreSQL, Kafka, and Scrapy**  
-
-## 🔥 Continuous Learning  
-Committed to **continuous growth**, I am refining my expertise in **AWS, Azure DevOps, Kubernetes, Terraform, and Linux**, while staying ahead in **Platform Engineering and AI-powered automation**.  
+Beyond DevOps, I enjoy building **developer-focused projects** — from **automation tools in Python** to **AI-driven apps** with modern frameworks.
 
 ---
 
+## 🔹 Core Expertise
+
+* **Cloud Platforms**: AWS, Azure DevOps
+* **Infrastructure as Code**: Terraform
+* **Containerization**: Docker
+* **Programming**: Python
+* **Version Control**: Git
+
+---
+
+## 🔹 Additional Proficiencies
+
+* **CI/CD Tools**: Jenkins, GitHub Actions
+* **Monitoring & Observability**: Grafana, Prometheus, ELK Stack
+* **Workflow Automation**: Apache Airflow, Bash
+* **Platform Engineering**: Backstage, Ollama
+* **Data & Messaging**: Kafka, Redis, Elasticsearch
+* **Web Frameworks**: Flask, Django, FastApi
+
+---
+
+## 💡 Current Project
+
+🚧 **ChronoCrawl** → an intelligent web crawling & data processing system built with **Flask, Celery, Kafka, Scrapy, PostgreSQL, and Elasticsearch**.
+
+---
+
+## 🔥 Continuous Growth
+
+I actively expand my expertise in **Platform Engineering** and **AI-powered automation**, bridging the gap between **DevOps & Development**.
+
+---
 
 ## 📫 Reach Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white)](https://linkedin.com/in/vishalvijayakumarv)  
@@ -60,7 +81,3 @@ Committed to **continuous growth**, I am refining my expertise in **AWS, Azure D
 
 ### 🎮 Playground  
 ![Steam](https://img.shields.io/badge/Steam-000000?style=plastic&logo=steam&logoColor=white)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=vishalvijaykumarv&icon=7&color=1)](https://visitcount.itsvg.in)
